@@ -1,0 +1,4 @@
+run = "java -version && javac Main.java && java -cp . Main"
+
+language = "java" 
+# openjdk version "11.0.7" 2020-04-14
